@@ -1,0 +1,3 @@
+Movie
+Purpose: Allow user to search a movie from a list, program returns information
+about selected movie
